@@ -3,11 +3,6 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://quietzhangn.github.io/post/blog/</loc>
-    <lastmod>2019-08-12T08:29:43+08:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://quietzhangn.github.io/</loc>
     <lastmod>2019-08-12T08:29:43+08:00</lastmod>
     <priority>0</priority>
@@ -17,6 +12,11 @@
     <loc>https://quietzhangn.github.io/post/</loc>
     <lastmod>2019-08-12T08:29:43+08:00</lastmod>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://quietzhangn.github.io/post/blog/</loc>
+    <lastmod>2019-08-12T08:29:43+08:00</lastmod>
   </url>
   
   <url>
