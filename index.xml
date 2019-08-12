@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>My New Hugo Site</title>
+    <link>https://quietzhangn.github.io/</link>
+    <description>Recent content on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 12 Aug 2019 08:29:43 +0800</lastBuildDate>
+    
+	<atom:link href="https://quietzhangn.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Blog</title>
+      <link>https://quietzhangn.github.io/post/blog/</link>
+      <pubDate>Mon, 12 Aug 2019 08:29:43 +0800</pubDate>
+      
+      <guid>https://quietzhangn.github.io/post/blog/</guid>
+      <description>Welcome to StackEdit! {#welcome} Hello, I am your first Markdown document within StackEdit[^stackedit]. Don&amp;rsquo;t delete me, I can be helpful. I can be recovered anyway in the Utils tab of the  Settings dialog.
+Documents StackEdit stores your hello
+documents in your browser, which means all your documents are automatically saved locally and are accessible offline!
+ NOTE:
+ StackEdit is accessible offline after the application has been loaded for the first time.</description>
+    </item>
+    
+    <item>
+      <title>Welcome to Tranquilpeak 0.4.6-BETA</title>
+      <link>https://quietzhangn.github.io/post/welcome-to-the-new-tranquilpeak/</link>
+      <pubDate>Mon, 15 Jun 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://quietzhangn.github.io/post/welcome-to-the-new-tranquilpeak/</guid>
+      <description>&lt;p&gt;Tranquilpeak is a gorgeous responsive theme for Hugo blog framework. It has many features and integrated services to improve user experience.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
